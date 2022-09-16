@@ -1,0 +1,28 @@
+.test-unused {
+    display: block;
+}
+
+test-unused {
+    display: block;
+}
+
+#test-unused {
+    display: block;
+}
+
+.test-used {
+    display: block;
+}
+
+.test-used {
+    display: block;
+}
+
+test-used {
+    display: block;
+}
+
+#test-used {
+    display: block;
+}
+
