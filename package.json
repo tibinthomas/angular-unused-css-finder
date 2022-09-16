@@ -10,14 +10,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:angular-unused-css-finder.helloWorld"
+    "onCommand:angular-unused-css-finder.scan-for-unused"
   ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "angular-unused-css-finder.helloWorld",
-        "title": "Hello World"
+        "command": "angular-unused-css-finder.scan-for-unused",
+        "title": "Show unused css selectors"
       }
     ]
   },
